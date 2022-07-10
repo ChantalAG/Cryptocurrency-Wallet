@@ -16,7 +16,7 @@ Integrating these two files will allow you to automate the tasks associated with
 Specifically, you will assume the perspective of a Fintech Finder customer in order to do the following:
 
 
-* Generate a new Ethereum account instance by using the mnemonic seed phrase provided by Ganache.
+* Generate a new Ethereum account instance by using the mnemonic seed phrase provided by [Ganache](https://trufflesuite.com/ganache/).
 
 
 * Fetch and display the account balance associated with your Ethereum account address.
